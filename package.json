@@ -1,0 +1,28 @@
+{
+  "name": "statiko",
+  "version": "0.0.234",
+  "description": "A static API builder",
+  "main": "index.js",
+  "bin": {
+    "statiko": "index.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poush/statiko.git"
+  },
+  "keywords": [
+    "static",
+    "api",
+    "builder"
+  ],
+  "author": "Piyush Agrawal <me@ipiyush.com> (http://ipiyush.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poush/statiko/issues"
+  },
+  "homepage": "https://github.com/poush/statiko#readme",
+  "dependencies": {
+    "travis_pages": "^0.0.1"
+  }
+}
