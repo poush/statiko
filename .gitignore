@@ -1,0 +1,4 @@
+node_modules/
+.ssh.key.enc
+.travis.yml
+statiko-deploy.sh

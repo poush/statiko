@@ -7,7 +7,7 @@ var travis_pages = require('travis_pages');
 var choice = process.argv[2];
 
 if( choice == "install" )
-	travis_pages();
+	travis_pages('sK');
 
 else
 	buildAPI();
